@@ -13,7 +13,7 @@ Welcome to the Quiz App repository! This app was created as part of my journey w
 
 To get started with the Quiz App, follow these steps:
 
-1. Download the app from the [GitHub, Install](https://github.com/rajkishorbgp/Android-Apps/blob/main/QuizApp/Quiz-App.apk).
+1. Download the app from the [GitHub, Install](https://github.com/CharanLingolu/QuizApp/blob/main/Quiz-App.apk).
 2. Select a quiz that interests you.
 3. Answer the questions and watch your knowledge grow.
 4. Enjoy instant feedback and explanations.
@@ -28,7 +28,7 @@ Contributions to the Quiz App are welcome! If you find any issues or have sugges
 
 ## Contact
 
-If you have any questions, feedback, or suggestions, feel free to reach out to me at: rajkishorbgp6@gmail.com.
+If you have any questions, feedback, or suggestions, feel free to reach out to me at: charanlingolu@gmail.com.
 
 Let's embark on a journey of continuous learning and exploration with the Quiz App! 🚀📱
 
